@@ -103,3 +103,44 @@ class GoBackN
 				}
 			}
 		}while(inp!=2);}}
+
+
+OP:
+Enter the Max.Window Size:
+
+8
+
+1.Execute  2.Exit
+
+1
+
+Frame Allowed:
+
+0 1 2 3 4 5 6
+
+Enter the Transmitting Frame
+
+0
+1
+2
+3
+4
+5
+6
+
+Max. Window Size Reached
+0
+
+0 is acknowledged
+
+1 is acknowledged
+
+2 is acknowledged
+
+3 is acknowledged
+
+4 is acknowledged
+
+5 is acknowledged
+
+6 is acknowledged
