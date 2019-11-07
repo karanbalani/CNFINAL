@@ -11,3 +11,10 @@ class udp{
         System.out.println("CHECKSUM : "+Integer.parseInt(hex.substring(12,16),16));
     }
 }
+
+Enter Hex Dump :
+BC82000D002B001D
+SOURCE PORT NUMBER : 48258
+DESTINATION PORT NUMBER : 13
+LENGTH : 43
+CHECKSUM : 29
