@@ -83,3 +83,25 @@ class crc{
         System.out.println("Perf");
     }
 }
+
+OP:
+Enter size of data :
+6
+Enter data :
+1
+0
+0
+1
+0
+0
+Enter size of key :
+4
+Enter divisor :
+1
+1
+0
+1
+Remainder is :
+001
+CRC is :
+100100001
