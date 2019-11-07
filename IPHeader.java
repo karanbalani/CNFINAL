@@ -105,3 +105,29 @@ public class IPHeader
 
     }
 }
+
+OP:
+Enter the hex dump
+4500005400035850200600007C4E0302B40E0F02
+IP Version : 4
+Header Length :20
+Service Type :0
+Total Length :84Bytes
+Identification :3
+Do not Fragment packet
+No more Fragment pending
+Fragmentation offset :49772
+Time to Live :32Hops
+Protocol :
+TCP
+Header Checksum :0
+Source Ip Address :
+124.
+78.
+3.
+2
+Destination Ip Address :
+180.
+14.
+15.
+2
