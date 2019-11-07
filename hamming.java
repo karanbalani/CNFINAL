@@ -75,3 +75,27 @@ class hamming{
                 return 1;
         }	
 }
+
+OP:
+Enter Data Bits :
+1
+1
+0
+1
+1
+0
+1
+11001100111
+Enter Recieved Bits :
+1
+1
+0
+0
+1
+1
+0
+0
+1
+0
+1
+Error at position 2
